@@ -26,7 +26,7 @@ def find_version(*file_paths):
 
 
 setup(
-    name='k.',
+    name='k',
     version=find_version('k/k.py'),
     description='k. bye.',
     keywords='k. bye.',
