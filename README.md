@@ -10,5 +10,7 @@ Usage
 -----
 
 	> k.
-
+Work Behind The Tool
+---------
+	printing the 'Bye' by calling main function
 
