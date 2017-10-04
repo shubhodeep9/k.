@@ -9,6 +9,6 @@ Installation
 Usage
 -----
 
-	> k.
+	Created a main function which print("bye"), and then calling it.
 
 
